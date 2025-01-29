@@ -271,3 +271,6 @@ main.go
 main.html
 main.wasm
 wasm_exec.js
+
+
+xxx
