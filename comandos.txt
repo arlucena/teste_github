@@ -1,0 +1,16 @@
+git config --global init.defaultBranch main
+git config --global user.name <"nome">
+git config --global user.email <"e-mail">
+git init <dir>
+git status
+git add <arquivo(s)>
+git log
+git commit -m <"mensagem" / identificação do check point >
+
+git diff  <arquivo(s)>
+git reset  <arquivo(s)>
+git checkout -b <nome da "branch">
+git checkout <nome da "branch">
+
+
+
