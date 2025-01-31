@@ -9,8 +9,11 @@ git commit -m <"mensagem" / identificação do check point >
 
 git diff  <arquivo(s)>
 git reset  <arquivo(s)>
-git checkout -b <nome da "branch">
+git checkout -b <nome da "branch" a criar>
 git checkout <nome da "branch">
+git merge <nome da "branch" a mesclar>
+
+git branch -D  <nome da "branch" a apagar>
 
 
 
