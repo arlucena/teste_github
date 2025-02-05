@@ -13,6 +13,9 @@ git checkout -b <nome da "branch" a criar>
 git checkout <nome da "branch">
 git merge <nome da "branch" a mesclar>
 
+#lista todos os branchs
+git branch
+
 git branch -D  <nome da "branch" a apagar>
 
 #git remote add origin https://github.com/arlucena/teste_github.git
