@@ -15,5 +15,19 @@ git merge <nome da "branch" a mesclar>
 
 git branch -D  <nome da "branch" a apagar>
 
+#git remote add origin https://github.com/arlucena/teste_github.git
+
+git remote add origin git@github.com:arlucena/teste_github.git
+
+# renomeia a branch para main
+# git branch -M main
+
+# carrega as mudanças locais para a branch "main" do origin
+git push -u origin main
+
+
+git pull -u origin main
+
+git clone <url gerada no processo de fork do github>
 
 
