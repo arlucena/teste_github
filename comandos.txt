@@ -33,4 +33,9 @@ git pull -u origin main
 
 git clone <url gerada no processo de fork do github>
 
+# carrega todas as branches de origin
+git fetch
+
+
+
 
